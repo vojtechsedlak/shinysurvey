@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+shinysurvey.Rproj	
+misc.R
+rsconnect/
+.DS_Store
