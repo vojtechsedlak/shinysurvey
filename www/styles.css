@@ -1,0 +1,9 @@
+#dataWrap { 
+	height:650px; 
+	overflow-y:scroll; 
+}
+
+.sidebar h2 {
+	text-align:center;
+	padding:10px;
+}
